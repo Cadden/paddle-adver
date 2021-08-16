@@ -3,8 +3,7 @@ Implemention of the paper "Towards Deep Learning Models Resistant to Adversarial
 
 1. 复现论文 “Towards Deep Learning Models Resistant to Adversarial Attacks” 
 2. 运行方式：
- 1) 使用python train.py命令进行模型训练 
- 
+ 1) 使用python train.py命令进行模型训练  
  2）使用python eval.py命令进行测试（该步骤可以直接运行，预训练的参数已经保存在环境中）
 
 2. 在Mnist数据集上复现结果如下：
